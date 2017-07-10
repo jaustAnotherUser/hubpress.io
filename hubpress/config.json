@@ -6,12 +6,12 @@
     "cname": ""
   },
   "theme": {
-    "name": "uno-zen"
+    "name": "ghostium"
   },
   "urls": {
     "site": "https://jaustAnotherUser.github.io",
     "hubpress": "https://jaustanotheruser.github.io",
-    "theme": "//jaustAnotherUser.github.io/themes/uno",
+    "theme": "//jaustAnotherUser.github.io/themes/uno-zen",
     "images": "https://jaustAnotherUser.github.io/images"
   },
   "initialisationConfigComponent": {
