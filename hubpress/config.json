@@ -6,12 +6,12 @@
     "cname": ""
   },
   "theme": {
-    "name": "ghostium"
+    "name": "casper"
   },
   "urls": {
     "site": "https://jaustAnotherUser.github.io",
     "hubpress": "https://jaustanotheruser.github.io",
-    "theme": "//jaustAnotherUser.github.io/themes/uno-zen",
+    "theme": "//jaustAnotherUser.github.io/themes/ghostium",
     "images": "https://jaustAnotherUser.github.io/images"
   },
   "initialisationConfigComponent": {
