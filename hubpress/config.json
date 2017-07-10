@@ -25,9 +25,9 @@
     ]
   },
   "site": {
-    "title": "Just Anther User",
-    "description": "A blog for posting thungs",
-    "logo": "Imagine a logo",
+    "title": "Just Another User",
+    "description": "A blog for posting things",
+    "logo": "http://orig15.deviantart.net/0fdd/f/2012/211/3/e/profile_picture_by_just_another_user-d595mb1.jpg",
     "cover": "",
     "delay": "",
     "postsPerPage": "",
@@ -35,9 +35,9 @@
     "disqus": ""
   },
   "socialnetwork": {
-    "email": "",
-    "github": "",
-    "twitter": "",
+    "email": "jaustAnotherUser@gmail.com",
+    "github": "jaustAnotherUser",
+    "twitter": "SaniHaque",
     "facebook": "",
     "googleplus": "",
     "instagram": "",
