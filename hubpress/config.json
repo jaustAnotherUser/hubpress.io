@@ -5,6 +5,22 @@
     "branch": "master"
   },
   "theme": {
-    "name": "Casper"
+    "name": "casper"
+  },
+  "urls": {
+    "site": "https://jaustAnotherUser.github.io",
+    "hubpress": "https://jaustanotheruser.github.io",
+    "theme": "//jaustAnotherUser.github.io/themes/casper",
+    "images": "https://jaustAnotherUser.github.io/images"
+  },
+  "initialisationConfigComponent": {
+    "name": "initialise-configuration",
+    "computed": {},
+    "methods": {},
+    "staticRenderFns": [
+      null,
+      null,
+      null
+    ]
   }
 }
