@@ -3,7 +3,10 @@
 :published_at: 2019-01-31
 :hp-tags: HubPress, Blog, Open_Source,
 :hp-alt-title: My English Title
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse porttitor nunc id urna hendrerit molestie. Proin condimentum, dui at lacinia mattis, nisl tellus varius enim, ac hendrerit libero lorem ac felis. Nunc sed arcu massa. Ut sed mollis sapien. Morbi nec velit eget lectus euismod sagittis id egestas tellus. Morbi nec eleifend nibh. Sed molestie porta leo, ac mollis dolor fermentum eget.
+
+TIP: Use :hp-image to show header image.
 
 Curabitur purus tortor, tincidunt posuere elit a, semper euismod tellus. Quisque vehicula augue lectus, in faucibus ex porta eget. Mauris sed leo et ex blandit rhoncus sit amet et velit. Etiam lacinia, dolor in feugiat sodales, nulla ex laoreet risus, id blandit felis orci ut leo. Aenean lobortis, enim id viverra viverra, neque dui vulputate dui, ac tincidunt tortor nisi eu mauris. Maecenas semper, arcu at sodales laoreet, metus elit varius nibh, et interdum lacus sem nec risus. Vestibulum gravida, leo ac tincidunt elementum, urna ipsum bibendum mi, pharetra dapibus purus nisl at lectus. In sodales, nunc sit amet laoreet tempus, ligula massa pretium dolor, sit amet elementum nulla risus id turpis. Phasellus fermentum eleifend porttitor. Sed vitae nunc eget ante consectetur hendrerit ut sit amet nulla. Integer elit libero, hendrerit eu condimentum vehicula, tempus ut erat. Nullam mollis accumsan risus, a blandit erat blandit in. Vivamus vitae ligula eget leo auctor vestibulum nec quis sem.
 
