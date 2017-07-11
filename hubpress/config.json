@@ -6,12 +6,12 @@
     "cname": ""
   },
   "theme": {
-    "name": "Bootstrap-Ghost-Theme"
+    "name": "bootstrap-ghost-theme"
   },
   "urls": {
     "site": "https://jaustAnotherUser.github.io",
     "hubpress": "https://jaustanotheruser.github.io",
-    "theme": "//jaustAnotherUser.github.io/themes/saga",
+    "theme": "//jaustAnotherUser.github.io/themes/bootstrap-ghost-theme",
     "images": "https://jaustAnotherUser.github.io/images"
   },
   "initialisationConfigComponent": {
