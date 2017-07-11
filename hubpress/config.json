@@ -28,11 +28,11 @@
     "title": "Just Another User",
     "description": "A blog for posting things",
     "logo": "http://orig15.deviantart.net/0fdd/f/2012/211/3/e/profile_picture_by_just_another_user-d595mb1.jpg",
-    "cover": "",
+    "cover": "https://s-media-cache-ak0.pinimg.com/originals/5c/e9/71/5ce971ecd193edf9f29f689d6e0589c9.jpg",
     "delay": "",
     "postsPerPage": "",
     "googleAnalytics": "",
-    "disqus": "@saniulhaque"
+    "disqus": "saniulhaque"
   },
   "socialnetwork": {
     "email": "jaustAnotherUser@gmail.com",
