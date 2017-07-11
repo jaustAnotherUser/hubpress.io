@@ -6,12 +6,12 @@
     "cname": ""
   },
   "theme": {
-    "name": "casper"
+    "name": "ghostwriter"
   },
   "urls": {
     "site": "https://jaustAnotherUser.github.io",
     "hubpress": "https://jaustanotheruser.github.io",
-    "theme": "//jaustAnotherUser.github.io/themes/bootstrap-ghost-theme",
+    "theme": "//jaustAnotherUser.github.io/themes/casper",
     "images": "https://jaustAnotherUser.github.io/images"
   },
   "initialisationConfigComponent": {
