@@ -6,12 +6,12 @@
     "cname": ""
   },
   "theme": {
-    "name": "the-shell"
+    "name": "saga"
   },
   "urls": {
     "site": "https://jaustAnotherUser.github.io",
     "hubpress": "https://jaustanotheruser.github.io",
-    "theme": "//jaustAnotherUser.github.io/themes/casper",
+    "theme": "//jaustAnotherUser.github.io/themes/the-shell",
     "images": "https://jaustAnotherUser.github.io/images"
   },
   "initialisationConfigComponent": {
